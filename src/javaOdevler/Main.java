@@ -3,8 +3,9 @@ package javaOdevler;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		// Kodlama.io JAVA CAMP 2022 Odev 2
+		Odev2.run();
 	}
 
 }
